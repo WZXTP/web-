@@ -1,0 +1,6 @@
+# Web UI 自动化测试依赖
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+pytest>=7.4.0
+pytest-html>=4.1.0
+allure-pytest>=2.13.0

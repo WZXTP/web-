@@ -1,0 +1,14 @@
+{
+  "search_cases": [
+    {
+      "keyword": "软件测试",
+      "expect_title_contains": "软件测试",
+      "mark": "主场景"
+    },
+    {
+      "keyword": "自动化测试",
+      "expect_title_contains": "自动化测试",
+      "mark": "参数化场景"
+    }
+  ]
+}
